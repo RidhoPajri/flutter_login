@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../services/auth_service.dart';
-import '/form/home_page.dart';
+import '../services/auth_service.dart';
+import '../form/home_page.dart';
 import 'register_page.dart'; // Pilihan Anda menghilang halaman register
 
 class LoginPage extends StatefulWidget {

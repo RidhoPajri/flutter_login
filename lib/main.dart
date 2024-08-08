@@ -1,9 +1,8 @@
 // lib/main.dart
 import 'package:flutter/material.dart';
-import 'package:myapp/auth/login_page.dart';
-import 'package:myapp/auth/register_page.dart';
-import 'package:myapp/form/counter_page.dart';
-import 'package:myapp/form/display_page.dart';
+import 'package:myapp/pages/auth/login_page.dart';
+import 'package:myapp/pages/form/counter_page.dart';
+import 'package:myapp/pages/form/display_page.dart';
 
 
 void main() {
